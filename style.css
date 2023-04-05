@@ -8,15 +8,14 @@ background-position: center;
 background-size: contain;
 margin: 0;
 }
-
+/* logo */
 .logo{
     padding-top: 50px;
     padding-left: 100px;
     width: max-content;
     height: max-content;
-
 }
-
+/* main image */
 .mockup{
     padding-left: 100px;
     padding-top: 150px;
@@ -24,6 +23,7 @@ margin: 0;
 .mockup-img{
     filter: drop-shadow( 0px 3px 5px black);
 }
+/* title */
 h1{
     color: aliceblue;
     width: max-content;
@@ -39,6 +39,7 @@ h2{
     margin-left: 860px;
     margin-top: -470px;
 }
+/* register button */
 .btn-left{
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
@@ -47,7 +48,6 @@ h2{
     background-color: white;
     border: 1px solid white ;
     padding: 18px 55px;
-    /* box-shadow: 0px 0px 10px 0px rgb(8, 8, 8); */
     filter: drop-shadow( 0px 3px 5px black);
     border-radius: 35px;
     transition : 216ms;
@@ -65,14 +65,23 @@ h2{
     background-color: hsl(300, 69%, 71%);
     color: white;
 }
+/* footer */
 .twitter{
     width: 50px;
 }
 .instagram{
-    width: 50px
+    width: 50px;
+    margin-top: -55px;
+    margin-left: 120px;
 }
 .facebook{
     width: 50px;
-    border: solid 2px wh;
+    margin-top: -55px;
+    margin-left: 60px;
 }
-
+.footer{ 
+    margin-left: 1500px;
+    position: fixed;
+    bottom: 20px;
+    right: 360px ;
+}
