@@ -1,0 +1,16 @@
+body{ 
+background-color: hsl(257, 40%, 49%);
+width: 1440px;
+min-height: 100vh;
+background-image: url(./assets/images/bg-desktop.svg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+
+
+}
+.logo{
+    padding-top: 50px;
+    padding-left: 50px;
+
+}
