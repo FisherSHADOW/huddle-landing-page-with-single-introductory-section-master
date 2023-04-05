@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-master-solved-m3j7iG4d4K)
+- Live Site URL: [Add live site URL here](https://fishershadow.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ### Built with
 
